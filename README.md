@@ -1,1 +1,1 @@
-# HTML TEMPLATE QUICK START using BootStrap 4.1
+# CoCo HTML TEMPLATE using BootStrap 4.1
